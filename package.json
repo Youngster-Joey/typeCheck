@@ -1,6 +1,6 @@
 {
   "name": "@pkmn-fan-club/typecheck",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Youngster-Joey/typeCheck/issues"
   },
-  "homepage": "https://github.com/Youngster-Joey/typeCheck#readme"
+  "homepage": "https://github.com/Youngster-Joey/typeCheck#readme",
+  "keywords": [
+    "typecheck",
+    "boundary detection",
+    "lightweight"
+  ]
 }
